@@ -37,13 +37,13 @@ The bot's primary purpose is to provide users with a seamless interface to autom
 
 ### Getting Started
 
-** `python3 -m venv venv` **
-**`source venv/bin/activate`**
-**`pip install -r requirements.txt`**
+`python3 -m venv venv`
+`source venv/bin/activate`
+`pip install -r requirements.txt`
 
 ### Usage
 
-** `python app.py` **
+`python app.py`
 
 ### License
 
