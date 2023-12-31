@@ -1,0 +1,5 @@
+python-dotenv
+aiogram
+fastapi
+uvicorn
+apscheduler
