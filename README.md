@@ -1,9 +1,5 @@
 # Telegram Bot
 
-https://github.com/Gasyok/final_project.git
-
-#### Video Demo: https://youtu.be/U1sVq_TBgNY
-
 ### Description:
 
 This Telegram bot is an innovative solution designed to streamline and automate tasks by executing predefined macros. As a versatile tool, it finds utility in various domains, enhancing productivity and interaction. Leveraging the asynchronous capabilities of aiogram 3 and the robustness of FastAPI, this bot stands out for its efficiency and scalability, catering to the modern needs of automation and bot interaction.
